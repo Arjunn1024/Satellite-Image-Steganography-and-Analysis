@@ -79,10 +79,3 @@ Here is an example of the bot in action:
 3. **View ROUGE Scores**:
     ![ROUGE Scores](https://example.com/rouge_scores_screenshot.png)
 
-## Contributing
-
-Feel free to submit issues, fork the repository and send pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
